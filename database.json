@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Java Basics",
+    "author": "James Gosling",
+    "status": "Available",
+    "borrower": "",
+    "dueDate": ""
+  },
+  {
+    "id": 2,
+    "name": "Python for Beginners",
+    "author": "Guido van Rossum",
+    "status": "Available",
+    "borrower": "",
+    "dueDate": ""
+  },
+  {
+    "id": 3,
+    "name": "Add your name in the body",
+    "status": "Available",
+    "borrower": "",
+    "dueDate": ""
+  },
+  {
+    "id": 4,
+    "name": "Java Basics",
+    "author": "James Gosling",
+    "status": "Available",
+    "borrower": "",
+    "dueDate": ""
+  },
+  {
+    "id": 5,
+    "name": "Java Basics",
+    "author": "jk rowling",
+    "status": "Available",
+    "borrower": "",
+    "dueDate": ""
+  },
+  {
+    "id": 6,
+    "name": "Java Basics",
+    "author": "yp",
+    "status": "Available",
+    "borrower": "",
+    "dueDate": ""
+  }
+]
